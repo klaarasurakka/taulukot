@@ -1,0 +1,33 @@
+table {
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin-top: 20px;
+}
+
+table td {
+    background-color: rgb(233, 233, 135);
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button {
+    padding: 8px 18px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(190, 190, 218);
+    border: 1px solid black;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
